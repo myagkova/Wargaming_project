@@ -8,7 +8,6 @@ from django.shortcuts import render
 
 from .models import Word_in_texts
 
-
 TOTAL_DOC_KEY = '__count_doc'
 
 
